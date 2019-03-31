@@ -41,7 +41,6 @@ main.js
 
     let test = new Hello()
     console.log(Hello.omg)
-    
 ```
 ![exports 与 module.exports的区别](exports&module.exports.png)
 
